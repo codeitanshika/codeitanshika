@@ -172,24 +172,16 @@ Generates ATS compatibility scores and personalized feedback from resume analysi
 
 ---
 
-### 🐍 Contribution Snake
+### 🐍🌌 Contributions
 
-<!-- Generated daily by .github/workflows/snake.yml, pushed to the "output" branch -->
+<!-- Snake generated daily by .github/workflows/snake.yml, pushed to the "output" branch -->
+<!-- 3D graph generated daily by .github/workflows/profile-3d-contrib.yml -->
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codeitanshika/codeitanshika/output/github-snake-dark.svg" />
   <img src="https://raw.githubusercontent.com/codeitanshika/codeitanshika/output/github-snake.svg" alt="Snake eating contribution graph" width="90%" />
 </picture>
-
-</div>
-
----
-
-### 🌌 3D Contribution Graph
-
-<!-- STEP 4: Animated 3D contribution SVG goes here -->
-<div align="center">
 
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="90%" />
 
