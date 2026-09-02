@@ -160,12 +160,13 @@ Generates ATS compatibility scores and personalized feedback from resume analysi
 
 ### 📊 GitHub Stats
 
+<!-- Generated daily by .github/workflows/grs.yml -->
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=codeitanshika&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="49%" />
+<img src="./profile/stats.svg" alt="GitHub Stats" width="49%" />
 <img src="https://streak-stats.demolab.com/?user=codeitanshika&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeitanshika&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
+<img src="./profile/top-langs.svg" alt="Top Languages" width="49%" />
 
 </div>
 
