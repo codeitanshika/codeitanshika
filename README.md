@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./assets/cat-mascot.svg" alt="Cat mascot" width="120" />
+
 # Hey there, I'm Anshika 👋
 
 ### Building AI-powered systems — LLMs, agents, and backend infrastructure
