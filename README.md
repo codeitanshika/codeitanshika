@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="./assets/falling-cat.svg" alt="Falling cat" width="150" />
+<img src="./assets/coding-cat.svg" alt="Coding cat" width="380" />
+
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=E8E8E8&background=00000000&width=480&lines=Hi+%F0%9F%91%8B%2C+I%27m+Anshika;I+am+an+AI+and+Backend+Engineer;Not+building+%22Cool+stuff%22" alt="Hi, I'm Anshika — I am an AI and Backend Engineer — Not building &quot;Cool stuff&quot;" />
 
@@ -174,10 +176,10 @@ Generates ATS compatibility scores and personalized feedback from resume analysi
 <!-- Generated daily by .github/workflows/grs.yml -->
 <div align="center">
 
-<img src="./profile/stats.svg" alt="GitHub Stats" width="49%" />
-<img src="https://streak-stats.demolab.com/?user=codeitanshika&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
+<img src="./profile/stats.svg" alt="GitHub Stats" width="37%" />
+<img src="https://streak-stats.demolab.com/?user=codeitanshika&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="37%" />
 
-<img src="./profile/top-langs.svg" alt="Top Languages" width="49%" />
+<img src="./profile/top-langs.svg" alt="Top Languages" width="37%" />
 
 </div>
 
