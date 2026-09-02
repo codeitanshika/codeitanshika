@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=E8E8E8&background=00000000&width=480&lines=Hi+%F0%9F%91%8B%2C+I%27m+Anshika;I+am+an+AI+and+Backend+Engineer;Not+building+%22Cool+stuff%22" alt="Hi, I'm Anshika — I am an AI and Backend Engineer — Not building &quot;Cool stuff&quot;" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=E8E8E8&background=00000000&width=480&lines=Hi+%F0%9F%91%8B%2C+I%27m+Anshika;I+am+an+AI+and+Backend+Engineer;Not+building+%22Cool+stuff%22" alt="Hi, I'm Anshika — I am an AI and Backend Engineer — Building more than just the &quot;Cool stuff&quot;" />
 
 Building LLM-powered applications, autonomous agent systems, and production-oriented backend services.
 
