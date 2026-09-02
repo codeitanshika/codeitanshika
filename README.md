@@ -1,10 +1,14 @@
 <div align="center">
 
-<img src="./assets/no-face-mascot.svg" alt="No-Face mascot" width="120" />
+<img src="./assets/calcifer-mascot.svg" alt="Calcifer mascot" width="120" />
 
-# Hey there, I'm Anshika 👋
+<img src="./assets/soot-sprite-intro.svg" alt="Hi, I'm Anshika" width="480" />
 
-### Building AI-powered systems — LLMs, agents, and backend infrastructure
+### AI & Backend Engineer focused on building scalable systems with LLMs, agents, and modern backend technologies.
+
+🎓 Computer Science major.<br/>
+Interested in learning how real-world systems are designed, built, and scaled — with a focus on production-grade software over showcase projects.<br/>
+Not building "cool stuff" though.
 
 <img src="https://komarev.com/ghpvc/?username=codeitanshika&label=Profile%20views&color=ff69b4&style=flat" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/codeitanshika?label=Followers&style=flat&color=blueviolet" alt="Followers" />
