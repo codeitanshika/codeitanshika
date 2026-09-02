@@ -1,8 +1,11 @@
 <div align="center">
 
-# Hey, I'm Anshika 👋
+# Hey there, I'm Anshika 👋
 
 ### Building AI-powered systems — LLMs, agents, and backend infrastructure
+
+<img src="https://komarev.com/ghpvc/?username=codeitanshika&label=Profile%20views&color=ff69b4&style=flat" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/codeitanshika?label=Followers&style=flat&color=blueviolet" alt="Followers" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anshika-shivhare-17045b2a9)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshika494shiv@gmail.com)
@@ -11,9 +14,12 @@
 
 ---
 
-### 🚀 Currently
+### 🚀 My GitHub Profile
 
-Preparing for **Smart India Hackathon 2026** — building a log pre-processing framework under the Blockchain & Cybersecurity theme.
+- 🛰️ Preparing for **Smart India Hackathon 2026** — building a log pre-processing framework under the Blockchain & Cybersecurity theme
+- 🧠 All of my projects are available at [codeitanshika](https://github.com/codeitanshika?tab=repositories)
+- 💬 Ask me about AI agents, RAG, and backend systems
+- 📫 Reach me at [anshika494shiv@gmail.com](mailto:anshika494shiv@gmail.com)
 
 ---
 
@@ -66,25 +72,101 @@ Generates ATS compatibility scores and personalized feedback from resume analysi
 
 ### ⚙️ Tech Stack
 
-<div align="center">
+<table>
+<tr>
+<td valign="top" width="50%">
 
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=0d1117)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&labelColor=0d1117)
-![Django](https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django&logoColor=44B78B&labelColor=0d1117)
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0d1117)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=0d1117)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-0d1117?style=for-the-badge&logo=socketdotio&logoColor=white&labelColor=0d1117)
+<details open>
+<summary><b>🧑‍💻 Languages</b></summary>
+<br>
 
-</div>
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+</details>
+
+</td>
+<td valign="top" width="50%">
+
+<details open>
+<summary><b>🖥️ Backend & Frameworks</b></summary>
+<br>
+
+![FastAPI](https://img.shields.io/badge/FASTAPI-005571?style=for-the-badge&logo=fastapi)
+![Django](https://img.shields.io/badge/DJANGO-092E20?style=for-the-badge&logo=django&logoColor=44B78B)
+![Node.js](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+</details>
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+<details open>
+<summary><b>🎨 Frontend</b></summary>
+<br>
+
+![React](https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Socket.IO](https://img.shields.io/badge/SOCKET.IO-black?style=for-the-badge&logo=socketdotio)
+
+</details>
+
+</td>
+<td valign="top" width="50%">
+
+<details open>
+<summary><b>🤖 AI / ML</b></summary>
+<br>
+
+![LLM](https://img.shields.io/badge/LLMS-412991?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-ff6ac1?style=for-the-badge)
+
+</details>
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+<details open>
+<summary><b>🗄️ Databases</b></summary>
+<br>
+
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLITE-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+</details>
+
+</td>
+<td valign="top" width="50%">
+
+<details open>
+<summary><b>☁️ Cloud & DevOps</b></summary>
+<br>
+
+![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GITHUB%20ACTIONS-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/VERCEL-black?style=for-the-badge&logo=vercel&logoColor=white)
+
+</details>
+
+</td>
+</tr>
+</table>
 
 ---
 
 ### 📊 GitHub Stats
 
-<!-- Generated daily by .github/workflows/update-metrics.yml -->
 <div align="center">
 
-<img src="./metrics.svg" alt="GitHub Metrics" width="90%" />
+<img src="https://github-readme-stats.vercel.app/api?username=codeitanshika&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=codeitanshika&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeitanshika&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
 
 </div>
 
