@@ -96,7 +96,7 @@ Generates ATS compatibility scores and personalized feedback from resume analysi
 <!-- STEP 4: Animated 3D contribution SVG goes here -->
 <div align="center">
 
-<img src="./profile-3d-contrib/profile-south.svg" alt="3D contribution graph" width="90%" />
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="90%" />
 
 </div>
 
