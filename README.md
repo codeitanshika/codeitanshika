@@ -81,11 +81,24 @@ Generates ATS compatibility scores and personalized feedback from resume analysi
 
 ### 📊 GitHub Stats
 
-<!-- STEP 2: Live stats cards go here -->
+<!-- Generated daily by .github/workflows/update-metrics.yml -->
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=codeitanshika&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeitanshika&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages" height="165" />
+<img src="./metrics.svg" alt="GitHub Metrics" width="90%" />
+
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<!-- Generated daily by .github/workflows/snake.yml, pushed to the "output" branch -->
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codeitanshika/codeitanshika/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/codeitanshika/codeitanshika/output/github-snake.svg" alt="Snake eating contribution graph" width="90%" />
+</picture>
 
 </div>
 
