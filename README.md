@@ -16,7 +16,6 @@
 
 ### 🚀 My GitHub Profile
 
-- 🛰️ Preparing for **Smart India Hackathon 2026** — building a log pre-processing framework under the Blockchain & Cybersecurity theme
 - 🧠 All of my projects are available at [codeitanshika](https://github.com/codeitanshika?tab=repositories)
 - 💬 Ask me about AI agents, RAG, and backend systems
 - 📫 Reach me at [anshika494shiv@gmail.com](mailto:anshika494shiv@gmail.com)
