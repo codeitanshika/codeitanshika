@@ -1,17 +1,16 @@
 <div align="center">
 
-<img src="./assets/calcifer-mascot.svg" alt="Calcifer mascot" width="120" />
+<img src="./assets/falling-cat.svg" alt="Falling cat" width="150" />
 
-<img src="./assets/soot-sprite-intro.svg" alt="Hi, I'm Anshika" width="480" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=E8E8E8&background=00000000&width=480&lines=Hi+%F0%9F%91%8B%2C+I%27m+Anshika;I+am+an+AI+and+Backend+Engineer;Not+building+%22Cool+stuff%22" alt="Hi, I'm Anshika — I am an AI and Backend Engineer — Not building &quot;Cool stuff&quot;" />
 
-### AI & Backend Engineer focused on building scalable systems with LLMs, agents, and modern backend technologies.
+Building LLM-powered applications, autonomous agent systems, and production-oriented backend services.
 
-🎓 Computer Science major.<br/>
-Interested in learning how real-world systems are designed, built, and scaled — with a focus on production-grade software over showcase projects.<br/>
-Not building "cool stuff" though.
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=codeitanshika&label=Profile%20views&color=ff69b4&style=flat" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/codeitanshika?label=Followers&style=flat&color=blueviolet" alt="Followers" />
+<img src="https://komarev.com/ghpvc/?username=codeitanshika&label=Profile%20views&color=ff69b4&style=flat" alt="Profile views" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/github/followers/codeitanshika?label=Followers&style=flat&color=blueviolet" alt="Followers" />
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anshika-shivhare-17045b2a9)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshika494shiv@gmail.com)
@@ -20,11 +19,17 @@ Not building "cool stuff" though.
 
 ---
 
-### 🚀 My GitHub Profile
+### 👤 About Me
 
-- 🧠 All of my projects are available at [codeitanshika](https://github.com/codeitanshika?tab=repositories)
-- 💬 Ask me about AI agents, RAG, and backend systems
-- 📫 Reach me at [anshika494shiv@gmail.com](mailto:anshika494shiv@gmail.com)
+- 🎓 Computer science major
+- 💻 Building AI-powered applications and backend systems
+- 🧠 Exploring LLMs, RAG, AI agents, and system design
+- ⚙️ Focused on building reliable, maintainable, and production-oriented software
+- 🔍 Interested in how real-world systems are designed, deployed, and scaled
+- 🌱 Continuously learning through hands-on development and open-source contributions
+- 📂 All projects → [codeitanshika](https://github.com/codeitanshika?tab=repositories)
+- 🤝 Open to open-source contributions and engineering collaborations
+- 📫 Reach me → [anshika494shiv@gmail.com](mailto:anshika494shiv@gmail.com)
 
 ---
 
