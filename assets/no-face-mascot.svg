@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <ellipse cx="100" cy="185" rx="55" ry="12" fill="#000000" opacity="0.2" />
+
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -4; 0 0; 0 3; 0 0" keyTimes="0;0.25;0.5;0.75;1" dur="6s" repeatCount="indefinite" />
+
+    <path d="M70 55 Q100 25 130 55 Q152 85 148 120 Q168 150 158 182 L42 182 Q32 150 52 120 Q48 85 70 55 Z"
+          fill="#15151c" stroke="#4a4a5c" stroke-width="2.5" stroke-linejoin="round" />
+
+    <ellipse cx="62" cy="168" rx="14" ry="9" fill="#15151c" stroke="#4a4a5c" stroke-width="2.5" />
+    <ellipse cx="138" cy="168" rx="14" ry="9" fill="#15151c" stroke="#4a4a5c" stroke-width="2.5" />
+
+    <ellipse cx="100" cy="78" rx="30" ry="34" fill="#ece4d3" stroke="#8a8266" stroke-width="2" />
+
+    <g id="gaze">
+      <animateTransform attributeName="transform" type="translate" values="0 0; -3 0; -3 0; 3 0; 3 0; 0 0" keyTimes="0;0.15;0.4;0.6;0.85;1" dur="6s" repeatCount="indefinite" />
+
+      <path d="M82 72 Q87 68 92 72" fill="none" stroke="#1a1a1a" stroke-width="2.5" stroke-linecap="round">
+        <animate attributeName="opacity" values="1;1;0;1;1" keyTimes="0;0.94;0.96;0.98;1" dur="4.5s" repeatCount="indefinite" />
+      </path>
+      <path d="M108 72 Q113 68 118 72" fill="none" stroke="#1a1a1a" stroke-width="2.5" stroke-linecap="round">
+        <animate attributeName="opacity" values="1;1;0;1;1" keyTimes="0;0.94;0.96;0.98;1" dur="4.5s" repeatCount="indefinite" />
+      </path>
+    </g>
+
+    <path d="M94 96 Q100 100 106 96" fill="none" stroke="#3a3226" stroke-width="1.5" stroke-linecap="round" opacity="0.7" />
+  </g>
+</svg>

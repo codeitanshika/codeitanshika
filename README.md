@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/cat-mascot.svg" alt="Cat mascot" width="120" />
+<img src="./assets/no-face-mascot.svg" alt="No-Face mascot" width="120" />
 
 # Hey there, I'm Anshika 👋
 
